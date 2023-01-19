@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML5 Pragraph</title>
+</head>
+<body>
+    <p style="text-align: right;">I am align at the right side of the screen</p>
+    <p style="text-align: left;">I am align at the left side of the screen</p>
+    <p style="text-align: center;">I am align at the center of the screen </p>
+    <p style="font-size: 20px;">I am 20px in Size</p>
+    <p style="font-family: Cambria;">I am Cambria Font</p>
+    <p style="font-weight:bold;">I am Bolded text</p>
+    
+</body>
+</html>

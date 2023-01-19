@@ -1,0 +1,2 @@
+1. Define HTML links?
+Ans. Html links are hyperlinks. You can click on a link and jump to another document.
